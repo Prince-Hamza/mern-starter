@@ -11,5 +11,19 @@
  ## Backend Optmizations
  * nodemon 
  * eslint
- *  nestjs (coming soon)
+ * nestjs (coming soon)
  * coffescript (coming soon)
+
+ ## Programming Included
+ ### Nodejs 
+ * Api Router 
+ * A Test Api
+ ### React
+ * Reat Router
+ * class component (coming soon)
+ * React Hook (functional) (coming soon)
+ * Styled component (coming soon)
+ * Compound component (coming soon)
+ * Variational component (coming soon)
+
+ 
