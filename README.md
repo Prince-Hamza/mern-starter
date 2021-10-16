@@ -18,9 +18,11 @@
  ### Nodejs 
  * Api Router 
  * A Test Api
+ * Nestjs (coming soon)
+ * CoffeeScript (coming soon)
  ### React
- * Reat Router
- * class component (coming soon)
+ * React Router
+ * Class component (coming soon)
  * React Hook (functional) (coming soon)
  * Styled component (coming soon)
  * Compound component (coming soon)

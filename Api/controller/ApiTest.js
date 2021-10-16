@@ -1,6 +1,6 @@
 
 class ApiTest {
-    welcome = (req, res) => {
+    welcome(req, res) {
         res.send(`Welcome Dear ${req.params.name}`)
     }
 }
