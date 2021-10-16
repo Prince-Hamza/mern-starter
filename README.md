@@ -9,6 +9,7 @@
  ```
 
  ## Backend Optmizations
- #### nodemon 
- #### eslint
- #### coffescript (coming soon)
+ * nodemon 
+ * eslint
+ *  nestjs (coming soon)
+ * coffescript (coming soon)
